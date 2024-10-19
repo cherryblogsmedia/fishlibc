@@ -9,7 +9,7 @@
 1. **Achieve Basic Functionality**  
    Provide sufficant defintions and libary functions for X5-OS
 
-2. **Support for Linux (Maybe)**
+2. **Maybe Support for Linux**
    Possibly Provide supporort for linux?
 
 3. **Easy to read and modify the source code**  
